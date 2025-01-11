@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="navbar">
-        <a class="active" href="event_controller.php?val=home">Home</a>
+        <a class="active flag" href="event_controller.php?val=home">Home</a>
         <a href="event_controller.php?val=login">Profile</a>
 </div>
 
